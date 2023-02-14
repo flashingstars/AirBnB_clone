@@ -176,15 +176,15 @@ $
 ```
 ## Authors
 <details>
-    <summary>Edward Muriuki</summary>
+    <summary>Anne Njuguna</summary>
     <ul>
-    <li><a href="https://github.com/njogued">Github</a></li>
+    <li><a href="https://github.com/flashingstars">Github</a></li>
     </ul>
 </details>
 <details>
-    <summary>Eric Okemwa</summary>
+    <summary>Abraham Maiko Kingoo</summary>
     <ul>
-    <li><a href="https://www.github.com/erokemwa">Github</a></li>
+    <li><a href="https://github.com/Freedom469">Github</a></li>
     </ul>
    
     
